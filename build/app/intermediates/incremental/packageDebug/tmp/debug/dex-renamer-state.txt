@@ -1,0 +1,4 @@
+#Fri Jun 24 12:36:25 BRT 2022
+base.0=C\:\\Users\\ezequiel.daniel\\source\\repos\\Flutter_CadastroContato\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
